@@ -15,6 +15,8 @@ Grégoire Mialon*, Quentin Garrido*, Hannah Lawrence, Danyal Rehman, Yann LeCun,
 
 We rely on the data from [PDE Arena](https://microsoft.github.io/pdearena/) which can be downloaded by following the instructions from [https://microsoft.github.io/pdearena/datadownload/#conditioning-dataset](https://microsoft.github.io/pdearena/datadownload/#conditioning-dataset). Please note that the exact downloading instructions may evolve.
 
+[EDIT]: The PDE Arena website seems to not be online anymore. The data can be accessed at [huggingface.co/datasets/pdearena/NavierStokes-2D-conditoned](https://huggingface.co/datasets/pdearena/NavierStokes-2D-conditoned)
+
 We consider that the data is then stored in `NS_DATA_ROOT` for the remainder of the README.
 
 ## Pretraining
